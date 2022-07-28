@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherylfbrown
 - 👀 I’m interested in kubernetes, databases, node.js and Typescript
-- 📫 Reach me at cfjohnst@us.ibm.com
+- 📫 Reach me at cherylbrown@us.ibm.com
 
 <!---
 cherylfbrown/cherylfbrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
